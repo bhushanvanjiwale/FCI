@@ -1,0 +1,649 @@
+2025-06-30 17:50:06,447 - CSV_AI_App - INFO - Application started
+2025-06-30 17:50:06,449 - CSV_AI_App - DEBUG - No file uploaded yet
+2025-06-30 17:50:12,120 - CSV_AI_App - INFO - Application started
+2025-06-30 17:50:12,122 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:50:12,123 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:50:12,125 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:50:12,153 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:50:12,154 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:50:12,154 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:50:12,172 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:50:40,804 - CSV_AI_App - INFO - Application started
+2025-06-30 17:50:40,805 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:50:40,806 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:50:40,807 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:50:40,843 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:50:40,843 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:50:40,844 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:50:40,866 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:50:40,951 - CSV_AI_App - INFO - Application started
+2025-06-30 17:50:40,952 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:50:40,953 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:50:40,953 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:50:40,979 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:50:40,979 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:50:40,980 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:50:40,998 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:51:00,883 - CSV_AI_App - INFO - Application started
+2025-06-30 17:51:00,894 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:51:00,895 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:51:00,896 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:51:00,921 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:51:00,922 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:51:00,922 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:51:00,966 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:51:00,968 - CSV_AI_App - INFO - Application started
+2025-06-30 17:51:01,041 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:51:01,042 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:51:01,042 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:51:01,066 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:51:01,067 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:51:01,067 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:51:01,087 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:51:01,091 - CSV_AI_App - INFO - User submitted prompt: 'give me the summary of age job and marital columns'
+2025-06-30 17:51:01,093 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 17:51:01,094 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 17:51:01,095 - CSV_AI_App - ERROR - Failed to initialize AI Processor: Configuration file not found. Please ensure settings.json exists in the config directory.
+2025-06-30 17:51:01,096 - CSV_AI_App - ERROR - Error in AI processing: Configuration file not found. Please ensure settings.json exists in the config directory.
+2025-06-30 17:51:01,097 - CSV_AI_App - ERROR - General Error: Configuration file not found. Please ensure settings.json exists in the config directory.
+2025-06-30 17:51:06,328 - CSV_AI_App - INFO - Application started
+2025-06-30 17:51:06,331 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:51:06,332 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:51:06,332 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:51:06,356 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:51:06,357 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:51:06,357 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:51:06,379 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:51:06,388 - CSV_AI_App - INFO - Creating visualizations...
+2025-06-30 17:51:06,942 - CSV_AI_App - INFO - SUCCESS: Visualizations created successfully
+2025-06-30 17:53:16,223 - CSV_AI_App - INFO - Application started
+2025-06-30 17:53:16,225 - CSV_AI_App - DEBUG - No file uploaded yet
+2025-06-30 17:53:19,854 - CSV_AI_App - INFO - Application started
+2025-06-30 17:53:19,855 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:53:19,856 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:53:19,856 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:53:19,883 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:53:19,884 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:53:19,884 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:53:19,904 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:53:43,986 - CSV_AI_App - INFO - Application started
+2025-06-30 17:53:43,990 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:53:43,991 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:53:43,992 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:53:44,021 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:53:44,021 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:53:44,022 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:53:44,046 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:53:47,109 - CSV_AI_App - INFO - Application started
+2025-06-30 17:53:47,111 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:53:47,112 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:53:47,113 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:53:47,138 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:53:47,139 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:53:47,139 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:53:47,157 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:53:47,163 - CSV_AI_App - INFO - User submitted prompt: 'what is average of age column'
+2025-06-30 17:53:47,165 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 17:53:47,166 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 17:53:47,167 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 17:53:47,168 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 17:53:47,168 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 17:53:47,168 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 17:53:47,169 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 17:53:47,170 - CSV_AI_App - INFO - Generating code for prompt: 'what is average of age column...'
+2025-06-30 17:53:47,170 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:53:47,170 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 17:53:47,171 - CSV_AI_App - ERROR - Error generating code: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-30 17:53:47,171 - CSV_AI_App - WARNING - Failed to generate code from prompt
+2025-06-30 17:54:39,052 - CSV_AI_App - INFO - Application started
+2025-06-30 17:54:39,054 - CSV_AI_App - DEBUG - No file uploaded yet
+2025-06-30 17:54:43,043 - CSV_AI_App - INFO - Application started
+2025-06-30 17:54:43,045 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:54:43,046 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:54:43,046 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:54:43,069 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:54:43,070 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:54:43,070 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:54:43,093 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:55:01,229 - CSV_AI_App - INFO - Application started
+2025-06-30 17:55:01,232 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:55:01,233 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:55:01,233 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:55:01,288 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:55:01,289 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:55:01,289 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:55:01,346 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:55:03,514 - CSV_AI_App - INFO - Application started
+2025-06-30 17:55:03,515 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:55:03,516 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:55:03,517 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:55:03,539 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:55:03,540 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:55:03,540 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:55:03,557 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:55:03,567 - CSV_AI_App - INFO - User submitted prompt: 'Show me the average of column age and job'
+2025-06-30 17:55:03,568 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 17:55:03,569 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 17:55:03,570 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 17:55:03,571 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 17:55:03,572 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 17:55:04,299 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 17:55:04,299 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 17:55:04,300 - CSV_AI_App - INFO - Generating code for prompt: 'Show me the average of column age and job...'
+2025-06-30 17:55:04,300 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:55:04,301 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 17:55:08,711 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 17:55:08,712 - CSV_AI_App - INFO - Generated code length: 505 characters
+2025-06-30 17:55:08,712 - CSV_AI_App - DEBUG - Generated code: import pandas as pd
+import streamlit as st
+
+# Assuming 'data' is the pandas DataFrame containing the data
+data = pd.read_csv('your_data.csv')
+
+# Calculate the average of column 'age'
+average_age = data['age'].mean()
+
+# Display the average age
+st.write(f"The average age is: {average_age}")
+
+# Calculate the average of column 'job' (assuming 'job' is a categorical column)
+average_job = data['job'].value_counts().mean()
+
+# Display the average job count
+st.write(f"The average job count is: {average_job}")
+2025-06-30 17:55:08,713 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 17:55:08,714 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 17:55:08,715 - CSV_AI_App - ERROR - Code execution failed: [Errno 2] No such file or directory: 'your_data.csv'
+2025-06-30 17:55:08,715 - CSV_AI_App - ERROR - General Error: [Errno 2] No such file or directory: 'your_data.csv'
+2025-06-30 17:57:02,029 - CSV_AI_App - INFO - Application started
+2025-06-30 17:57:02,031 - CSV_AI_App - DEBUG - No file uploaded yet
+2025-06-30 17:57:05,626 - CSV_AI_App - INFO - Application started
+2025-06-30 17:57:05,628 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:57:05,628 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:57:05,629 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:57:05,655 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:57:05,657 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:57:05,657 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:57:05,677 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:57:14,874 - CSV_AI_App - INFO - Application started
+2025-06-30 17:57:14,882 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:57:14,884 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:57:14,885 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:57:14,910 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:57:14,911 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:57:14,911 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:57:14,934 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:57:15,019 - CSV_AI_App - INFO - Application started
+2025-06-30 17:57:15,023 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:57:15,023 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:57:15,024 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:57:15,046 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:57:15,047 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:57:15,047 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:57:15,064 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:57:15,069 - CSV_AI_App - INFO - User submitted prompt: 'Show me the average of column age and job'
+2025-06-30 17:57:15,071 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 17:57:15,072 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 17:57:15,073 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 17:57:15,074 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 17:57:15,075 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 17:57:15,434 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 17:57:15,435 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 17:57:15,435 - CSV_AI_App - INFO - Generating code for prompt: 'Show me the average of column age and job...'
+2025-06-30 17:57:15,436 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:57:15,437 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 17:57:18,304 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 17:57:18,305 - CSV_AI_App - INFO - Generated code length: 239 characters
+2025-06-30 17:57:18,305 - CSV_AI_App - DEBUG - Generated code: # Calculate the average of column 'age'
+average_age = data['age'].mean()
+st.write(f"Average age: {average_age}")
+
+# Display the most frequent job
+most_frequent_job = data['job'].mode()[0]
+st.write(f"Most frequent job: {most_frequent_job}")
+2025-06-30 17:57:18,305 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 17:57:18,306 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 17:57:18,309 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 17:58:01,655 - CSV_AI_App - INFO - Application started
+2025-06-30 17:58:01,667 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:58:01,668 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:58:01,669 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:58:01,694 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:58:01,695 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:58:01,695 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:58:01,721 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:58:12,236 - CSV_AI_App - INFO - Application started
+2025-06-30 17:58:12,240 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:58:12,242 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:58:12,247 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:58:12,273 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:58:12,275 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:58:12,275 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:58:12,299 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:58:12,408 - CSV_AI_App - INFO - Application started
+2025-06-30 17:58:12,410 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:58:12,410 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:58:12,411 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:58:12,433 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:58:12,434 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:58:12,434 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:58:12,452 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:58:12,461 - CSV_AI_App - INFO - User submitted prompt: 'using which columns we can create better visualizations for better insights'
+2025-06-30 17:58:12,462 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 17:58:12,463 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 17:58:12,463 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 17:58:12,464 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 17:58:12,464 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 17:58:12,918 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 17:58:12,919 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 17:58:12,920 - CSV_AI_App - INFO - Generating code for prompt: 'using which columns we can create better visualiza...'
+2025-06-30 17:58:12,921 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:58:12,922 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 17:58:14,809 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 17:58:14,811 - CSV_AI_App - INFO - Generated code length: 720 characters
+2025-06-30 17:58:14,814 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+
+# Countplot for job distribution
+st.subheader("Job Distribution")
+st.pyplot(data['job'].value_counts().plot(kind='bar'))
+
+# Countplot for marital status distribution
+st.subheader("Marital Status Distribution")
+st.pyplot(data['marital'].value_counts().plot(kind='bar'))
+
+# Countplot for education level distribution
+st.subheader("Education Level Distribution")
+st.pyplot(data['education'].value_counts().plot(kind='bar'))
+
+# Countplot for contact method distribution
+st.subheader("Contact Method Distribution")
+st.pyplot(data['contact'].value_counts().plot(kind='bar'))
+
+# Countplot for month distribution
+st.subheader("Month Distribution")
+st.pyplot(data['month'].value_counts().plot(kind='bar'))
+2025-06-30 17:58:14,814 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 17:58:14,817 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 17:58:14,966 - CSV_AI_App - ERROR - Code execution failed: 'Axes' object has no attribute 'savefig'
+2025-06-30 17:58:14,967 - CSV_AI_App - ERROR - General Error: 'Axes' object has no attribute 'savefig'
+2025-06-30 17:58:54,756 - CSV_AI_App - INFO - Application started
+2025-06-30 17:58:54,758 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 17:58:54,759 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 17:58:54,760 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 17:58:54,784 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 17:58:54,785 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 17:58:54,785 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 17:58:54,806 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 17:58:54,811 - CSV_AI_App - INFO - Creating visualizations...
+2025-06-30 17:58:55,340 - CSV_AI_App - INFO - SUCCESS: Visualizations created successfully
+2025-06-30 18:00:14,338 - CSV_AI_App - INFO - Application started
+2025-06-30 18:00:14,345 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:00:14,349 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:00:14,352 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:00:14,377 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:00:14,378 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:00:14,378 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:00:14,400 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:00:14,492 - CSV_AI_App - INFO - Application started
+2025-06-30 18:00:14,494 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:00:14,494 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:00:14,495 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:00:14,512 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:00:14,513 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:00:14,513 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:00:14,529 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:00:14,537 - CSV_AI_App - INFO - User submitted prompt: 'give me the summary of data'
+2025-06-30 18:00:14,538 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 18:00:14,539 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 18:00:14,540 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 18:00:14,541 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 18:00:14,542 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 18:00:14,895 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 18:00:14,896 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 18:00:14,897 - CSV_AI_App - INFO - Generating code for prompt: 'give me the summary of data...'
+2025-06-30 18:00:14,897 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:00:14,898 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 18:00:15,849 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 18:00:15,851 - CSV_AI_App - INFO - Generated code length: 97 characters
+2025-06-30 18:00:15,853 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+
+# Display summary of the DataFrame
+st.write(data.describe(include='all'))
+2025-06-30 18:00:15,853 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 18:00:15,858 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 18:00:15,909 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 18:00:54,312 - CSV_AI_App - INFO - Application started
+2025-06-30 18:00:54,314 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:00:54,315 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:00:54,316 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:00:54,342 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:00:54,343 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:00:54,343 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:00:54,359 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:00:56,265 - CSV_AI_App - INFO - Application started
+2025-06-30 18:00:56,267 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:00:56,268 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:00:56,269 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:00:56,292 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:00:56,292 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:00:56,292 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:00:56,310 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:00:56,318 - CSV_AI_App - INFO - User submitted prompt: 'create visualization using any columns'
+2025-06-30 18:00:56,319 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 18:00:56,320 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 18:00:56,320 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 18:00:56,321 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 18:00:56,322 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 18:00:56,684 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 18:00:56,685 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 18:00:56,685 - CSV_AI_App - INFO - Generating code for prompt: 'create visualization using any columns...'
+2025-06-30 18:00:56,686 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:00:56,687 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 18:01:00,708 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 18:01:00,710 - CSV_AI_App - INFO - Generated code length: 634 characters
+2025-06-30 18:01:00,714 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Create a count plot for the 'education' column
+st.write("Count plot for education level")
+plt.figure(figsize=(10, 6))
+sns.countplot(data=data, x='education')
+plt.xlabel("Education Level")
+plt.ylabel("Count")
+plt.title("Education Level Distribution")
+st.pyplot()
+
+# Create a boxplot for 'age' based on 'marital' status
+st.write("Boxplot of Age based on Marital Status")
+plt.figure(figsize=(10, 6))
+sns.boxplot(data=data, x='marital', y='age')
+plt.xlabel("Marital Status")
+plt.ylabel("Age")
+plt.title("Age Distribution based on Marital Status")
+st.pyplot()
+2025-06-30 18:01:00,715 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 18:01:00,717 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 18:01:01,232 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 18:02:55,494 - CSV_AI_App - INFO - Application started
+2025-06-30 18:02:55,496 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:02:55,497 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:02:55,498 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:02:55,524 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:02:55,525 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:02:55,525 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:02:55,542 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:02:55,552 - CSV_AI_App - INFO - Creating visualizations...
+2025-06-30 18:02:56,069 - CSV_AI_App - INFO - SUCCESS: Visualizations created successfully
+2025-06-30 18:07:46,798 - CSV_AI_App - INFO - Application started
+2025-06-30 18:07:46,807 - CSV_AI_App - DEBUG - No file uploaded yet
+2025-06-30 18:25:31,482 - CSV_AI_App - INFO - Application started
+2025-06-30 18:25:31,485 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:25:31,486 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:25:31,487 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:25:31,510 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:25:31,511 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:25:31,511 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:25:31,539 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:26:34,770 - CSV_AI_App - INFO - Application started
+2025-06-30 18:26:34,779 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:26:34,780 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:26:34,780 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:26:34,802 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:26:34,804 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:26:34,804 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:26:34,855 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:26:34,927 - CSV_AI_App - INFO - Application started
+2025-06-30 18:26:34,929 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:26:34,930 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:26:34,930 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:26:34,949 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:26:34,950 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:26:34,951 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:26:34,967 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:26:34,973 - CSV_AI_App - INFO - User submitted prompt: 'create piechart of maried people '
+2025-06-30 18:26:34,975 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 18:26:34,976 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 18:26:34,976 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 18:26:34,977 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 18:26:34,978 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 18:26:35,323 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 18:26:35,324 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 18:26:35,325 - CSV_AI_App - INFO - Generating code for prompt: 'create piechart of maried people ...'
+2025-06-30 18:26:35,326 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:26:35,328 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 18:26:38,759 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 18:26:38,760 - CSV_AI_App - INFO - Generated code length: 402 characters
+2025-06-30 18:26:38,762 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+import pandas as pd
+
+# Filter the data for married people
+married_data = data[data['marital'] == 'married']
+
+# Count the number of married people
+married_count = married_data.shape[0]
+
+# Create a pie chart
+st.write(f"Number of married people: {married_count}")
+st.write("Pie chart of married people:")
+st.pyplot(married_data['marital'].value_counts().plot.pie(autopct='%1.1f%%'))
+2025-06-30 18:26:38,762 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 18:26:38,765 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 18:26:38,803 - CSV_AI_App - ERROR - Code execution failed: 'Axes' object has no attribute 'savefig'
+2025-06-30 18:26:38,804 - CSV_AI_App - ERROR - General Error: 'Axes' object has no attribute 'savefig'
+2025-06-30 18:27:05,403 - CSV_AI_App - INFO - Application started
+2025-06-30 18:27:05,407 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:27:05,408 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:27:05,408 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:27:05,431 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:27:05,432 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:27:05,432 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:27:05,454 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:27:08,406 - CSV_AI_App - INFO - Application started
+2025-06-30 18:27:08,408 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 18:27:08,408 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 18:27:08,409 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 18:27:08,429 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 18:27:08,430 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:27:08,430 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 18:27:08,449 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 18:27:08,456 - CSV_AI_App - INFO - User submitted prompt: 'create piechart of maried and  unmaried people '
+2025-06-30 18:27:08,458 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 18:27:08,458 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 18:27:08,459 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 18:27:08,459 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 18:27:08,460 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 18:27:08,834 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 18:27:08,834 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 18:27:08,835 - CSV_AI_App - INFO - Generating code for prompt: 'create piechart of maried and  unmaried people ...'
+2025-06-30 18:27:08,836 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 18:27:08,837 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 18:27:10,172 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 18:27:10,173 - CSV_AI_App - INFO - Generated code length: 420 characters
+2025-06-30 18:27:10,175 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+import matplotlib.pyplot as plt
+
+# Count the number of married and unmarried people
+marital_counts = data['marital'].value_counts()
+
+# Create a pie chart
+fig, ax = plt.subplots()
+ax.pie(marital_counts, labels=marital_counts.index, autopct='%1.1f%%', startangle=90)
+ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle
+
+# Display the pie chart using Streamlit
+st.pyplot(fig)
+2025-06-30 18:27:10,176 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 18:27:10,180 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 18:27:10,245 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 19:24:22,148 - CSV_AI_App - INFO - Application started
+2025-06-30 19:24:22,150 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:24:22,151 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:24:22,151 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:24:22,179 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:24:22,181 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:24:22,181 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:24:22,205 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:24:28,841 - CSV_AI_App - INFO - Application started
+2025-06-30 19:24:28,845 - CSV_AI_App - DEBUG - No file uploaded yet
+2025-06-30 19:24:32,590 - CSV_AI_App - INFO - Application started
+2025-06-30 19:24:32,592 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:24:32,594 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:24:32,595 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:24:32,621 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:24:32,622 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:24:32,622 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:24:32,641 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:25:15,009 - CSV_AI_App - INFO - Application started
+2025-06-30 19:25:15,015 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:25:15,016 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:25:15,017 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:25:15,040 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:25:15,042 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:25:15,043 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:25:15,062 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:25:15,181 - CSV_AI_App - INFO - Application started
+2025-06-30 19:25:15,182 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:25:15,183 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:25:15,183 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:25:15,206 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:25:15,207 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:25:15,207 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:25:15,223 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:25:15,229 - CSV_AI_App - INFO - User submitted prompt: 'create piechart of maried and  unmaried people '
+2025-06-30 19:25:15,231 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 19:25:15,231 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 19:25:15,232 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 19:25:15,232 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 19:25:15,233 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 19:25:15,589 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 19:25:15,590 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 19:25:15,590 - CSV_AI_App - INFO - Generating code for prompt: 'create piechart of maried and  unmaried people ...'
+2025-06-30 19:25:15,590 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:25:15,591 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 19:25:18,618 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 19:25:18,619 - CSV_AI_App - INFO - Generated code length: 421 characters
+2025-06-30 19:25:18,621 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+import matplotlib.pyplot as plt
+
+# Count the number of married and unmarried people
+marital_counts = data['marital'].value_counts()
+
+# Create a pie chart
+fig, ax = plt.subplots()
+ax.pie(marital_counts, labels=marital_counts.index, autopct='%1.1f%%', startangle=90)
+ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+
+# Display the pie chart using Streamlit
+st.pyplot(fig)
+2025-06-30 19:25:18,621 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 19:25:18,625 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 19:25:18,730 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 19:26:44,100 - CSV_AI_App - INFO - Application started
+2025-06-30 19:26:44,103 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:26:44,104 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:26:44,105 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:26:44,130 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:26:44,131 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:26:44,132 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:26:44,157 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:26:47,235 - CSV_AI_App - INFO - Application started
+2025-06-30 19:26:47,237 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:26:47,238 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:26:47,239 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:26:47,262 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:26:47,263 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:26:47,263 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:26:47,281 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:26:47,288 - CSV_AI_App - INFO - User submitted prompt: 'how many people are unmarried'
+2025-06-30 19:26:47,290 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 19:26:47,290 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 19:26:47,291 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 19:26:47,292 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 19:26:47,292 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 19:26:47,640 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 19:26:47,640 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 19:26:47,641 - CSV_AI_App - INFO - Generating code for prompt: 'how many people are unmarried...'
+2025-06-30 19:26:47,641 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:26:47,642 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 19:26:49,242 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 19:26:49,244 - CSV_AI_App - INFO - Generated code length: 167 characters
+2025-06-30 19:26:49,246 - CSV_AI_App - DEBUG - Generated code: # Count the number of people who are unmarried
+unmarried_count = data[data['marital'] == 'single'].shape[0]
+
+st.write(f"Number of unmarried people: {unmarried_count}")
+2025-06-30 19:26:49,247 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 19:26:49,253 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 19:26:49,268 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 19:30:11,679 - CSV_AI_App - INFO - Application started
+2025-06-30 19:30:11,683 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:30:11,684 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:30:11,685 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:30:11,713 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:30:11,715 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:30:11,715 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:30:11,741 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:30:30,691 - CSV_AI_App - INFO - Application started
+2025-06-30 19:30:30,701 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:30:30,703 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:30:30,703 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:30:30,727 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:30:30,728 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:30:30,728 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:30:30,756 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:31:03,959 - CSV_AI_App - INFO - Application started
+2025-06-30 19:31:03,966 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:31:03,967 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:31:03,967 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:31:03,990 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:31:03,991 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:31:03,991 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:31:04,015 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:31:08,200 - CSV_AI_App - INFO - Application started
+2025-06-30 19:31:08,202 - CSV_AI_App - INFO - File uploaded: bank.csv
+2025-06-30 19:31:08,202 - CSV_AI_App - INFO - Attempting to load CSV file: bank.csv
+2025-06-30 19:31:08,203 - CSV_AI_App - DEBUG - File size: 918960 bytes
+2025-06-30 19:31:08,225 - CSV_AI_App - INFO - SUCCESS: CSV file loaded successfully - Shape: (11162, 17)
+2025-06-30 19:31:08,226 - CSV_AI_App - DEBUG - Columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:31:08,226 - CSV_AI_App - INFO - Generating data summary...
+2025-06-30 19:31:08,249 - CSV_AI_App - INFO - SUCCESS: Data summary generated - 11162 rows, 17 columns
+2025-06-30 19:31:08,254 - CSV_AI_App - INFO - User submitted prompt: 'Show me the average of column age balance pdays campaign duration day month etc ', 'Create a bar chart'
+2025-06-30 19:31:08,255 - CSV_AI_App - INFO - Creating AI Processor instance...
+2025-06-30 19:31:08,256 - CSV_AI_App - INFO - Initializing AI Processor...
+2025-06-30 19:31:08,256 - CSV_AI_App - INFO - Found config file at: config.json
+2025-06-30 19:31:08,257 - CSV_AI_App - INFO - Configuration file loaded successfully
+2025-06-30 19:31:08,257 - CSV_AI_App - INFO - SUCCESS: API key loaded successfully
+2025-06-30 19:31:08,608 - CSV_AI_App - INFO - SUCCESS: AI Processor initialized successfully with API key
+2025-06-30 19:31:08,609 - CSV_AI_App - INFO - Generating code from prompt...
+2025-06-30 19:31:08,609 - CSV_AI_App - INFO - Generating code for prompt: 'Show me the average of column age balance pdays ca...'
+2025-06-30 19:31:08,610 - CSV_AI_App - DEBUG - DataFrame shape: (11162, 17), columns: ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+2025-06-30 19:31:08,611 - CSV_AI_App - INFO - Sending request to OpenAI API...
+2025-06-30 19:31:11,570 - CSV_AI_App - INFO - SUCCESS: Received response from OpenAI API
+2025-06-30 19:31:11,571 - CSV_AI_App - INFO - Generated code length: 384 characters
+2025-06-30 19:31:11,571 - CSV_AI_App - DEBUG - Generated code: import streamlit as st
+
+# Calculate the average of specified columns
+columns_to_average = ['age', 'balance', 'pdays', 'campaign', 'duration', 'day']
+averages = data[columns_to_average].mean()
+
+# Display the averages
+st.write("Averages of specified columns:")
+for col, avg in averages.items():
+    st.write(f"{col}: {avg}")
+
+# Create a bar chart for the averages
+st.bar_chart(averages)
+2025-06-30 19:31:11,571 - CSV_AI_App - INFO - SUCCESS: Code generated successfully
+2025-06-30 19:31:11,572 - CSV_AI_App - INFO - Executing generated code...
+2025-06-30 19:31:12,882 - CSV_AI_App - INFO - SUCCESS: Code executed successfully
+2025-06-30 20:42:39,721 - CSV_AI_App - INFO - Application started
+2025-06-30 20:42:39,723 - CSV_AI_App - DEBUG - No file uploaded yet
