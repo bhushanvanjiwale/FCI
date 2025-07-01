@@ -2,7 +2,7 @@ import os
 import json
 
 class Settings:
-    def __init__(self, config_file='D:\FCI\FCI Chatbot\streamlit-csv-ai-app\config.json'):
+    def __init__(self, config_file='https://github.com/bhushanvanjiwale/FCI/blob/master/config.json'):
         self.config_file = config_file
         self.settings = self.load_settings()
 
